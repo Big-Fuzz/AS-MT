@@ -1,2 +1,2 @@
 # AS-MT
-Scripts developed in the Master Thesis titled:  
+Pythonf scripts developed in the Master Thesis titled: Deep Neural Networks for Radar Microstrip Antenna Design
