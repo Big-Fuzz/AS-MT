@@ -1,0 +1,2 @@
+permittivity,f_max,f_min,feed_depth,feed_gap_width,feed_width,substrate_height,patch_length,copper_height,patch_width,resonance,s11,realized_gain,l3vertical,l3horizontal
+4.7,105,55,0.2,0.12,0.13138,0.071,1.2,0.035,1.2,57,-11.048,1.376,1.376,-3.9386
